@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.def86449.chunk.css",
+    "main.js": "/clicky-game/static/js/main.35ab771f.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.35ab771f.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.adc47061.chunk.js": "/clicky-game/static/js/2.adc47061.chunk.js",
+    "static/js/2.adc47061.chunk.js.map": "/clicky-game/static/js/2.adc47061.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.c247d1fbb9b700e8408c9471a2d45952.js": "/clicky-game/precache-manifest.c247d1fbb9b700e8408c9471a2d45952.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.def86449.chunk.css.map": "/clicky-game/static/css/main.def86449.chunk.css.map",
+    "static/media/bird.jpg": "/clicky-game/static/media/bird.caf821c0.jpg",
+    "static/media/cat.jpg": "/clicky-game/static/media/cat.7a77e305.jpg",
+    "static/media/cheetah.jpg": "/clicky-game/static/media/cheetah.71c6365b.jpg",
+    "static/media/dog.jpg": "/clicky-game/static/media/dog.2f37093b.jpg",
+    "static/media/elephant.jpg": "/clicky-game/static/media/elephant.3ea15f18.jpg",
+    "static/media/fox.jpg": "/clicky-game/static/media/fox.425b4f50.jpg",
+    "static/media/giraffe.jpg": "/clicky-game/static/media/giraffe.c7a98160.jpg",
+    "static/media/hamster.jpg": "/clicky-game/static/media/hamster.5bad9cd2.jpg",
+    "static/media/horse.jpg": "/clicky-game/static/media/horse.050de0cb.jpg",
+    "static/media/lion.jpg": "/clicky-game/static/media/lion.4cefd23a.jpg",
+    "static/media/turtle.jpg": "/clicky-game/static/media/turtle.ebf686a0.jpg",
+    "static/media/zebra.jpg": "/clicky-game/static/media/zebra.487e6e0d.jpg"
+  }
+}
