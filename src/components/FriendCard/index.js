@@ -5,7 +5,7 @@ function FriendCard(props) {
   return (
     <div className="card" onClick={() => props.clickCount(props.id)}>
       <div className="img-container">
-        <img  alt={"image"} src={props.image} />
+      <img alt={props.image.replace(".jpg", "")} src={require("../../images/" + props.image)} />
       </div>
       {/* <div className="content">
         {/* <ul> */}

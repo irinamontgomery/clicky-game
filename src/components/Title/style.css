@@ -1,8 +1,18 @@
-title {
+.title {
     width: 100%;
+    padding:20px;
     text-align: center;
     font-size: 3rem;
-    text-decoration: underline;
     color: #2A77AE;
     margin-bottom: 50px;
+  }
+  h3 {
+    color:lightslategray;
+   font-size: 30px;
+   padding:20px;
+   
+  }
+  h4 {
+padding: 20px;
+color:lightcoral;
   }
